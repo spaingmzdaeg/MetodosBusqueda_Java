@@ -1,6 +1,6 @@
 import java.util.Arrays;
 import java.util.Scanner;
-
+//s
 public class PruebaMB {
 	static void llenarArray(int[] array) {
 		for(int i=0;i<array.length;i++) {

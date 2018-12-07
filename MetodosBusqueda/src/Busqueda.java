@@ -1,5 +1,5 @@
 import java.util.Scanner;
-
+//s
 public class Busqueda {
 
 public int busquedaBinaria(int numeros[],int elemento) {
